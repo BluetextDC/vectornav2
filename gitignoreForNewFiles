@@ -1,0 +1,51 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+# WebApp//bin/
+#.vs/WebApp//v15/Server/sqlite3/*.*
+#.vs/WebApp//v15/*.*
+################################################################################
+WebApp/.vs/*.*
+WebApp/.vs/WebApp//v15/*.suo
+**/WebApp//bin/
+**/WebApp//obj/
+**/WebApp//a.txt
+# Build results
+WebApp/[Dd]ebug/
+WebApp/[Dd]ebugPublic/
+WebApp/[Rr]elease/
+WebApp/[Rr]eleases/
+WebApp/x64/
+WebApp/x86/
+WebApp/[Aa][Rr][Mm]/
+WebApp/[Aa][Rr][Mm]64/
+WebApp/bld/
+WebApp/[Bb]in/
+WebApp/[Oo]bj/
+WebApp/[Ll]og/
+WebApp/[Ll]ogs/
+
+BT_Widgets/.vs/*.*
+BT_Widgets/.vs/BT_Widgets//v15/*.suo
+**/BT_Widgets//bin/
+**/BT_Widgets//obj/
+**/BT_Widgets//a.txt
+# Build results
+BT_Widgets/[Dd]ebug/
+BT_Widgets/[Dd]ebugPublic/
+BT_Widgets/[Rr]elease/
+BT_Widgets/[Rr]eleases/
+BT_Widgets/x64/
+BT_Widgets/x86/
+BT_Widgets/[Aa][Rr][Mm]/
+BT_Widgets/[Aa][Rr][Mm]64/
+BT_Widgets/bld/
+BT_Widgets/[Bb]in/
+BT_Widgets/[Oo]bj/
+BT_Widgets/[Ll]og/
+BT_Widgets/[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+WebApp/.vs/
+BT_Widgets/.vs/
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
